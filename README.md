@@ -46,6 +46,6 @@ I enjoy working across different areas of computing, from software development a
 <h3>📫 Connect With Me</h3>
 
 <p>
-  <a href="www.linkedin.com/in/vimukthi-alutwala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/vimukthi-alutwala"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat" alt="LinkedIn"></a>
   <a href="https://github.com/VimukthiAlutwala"><img src="https://img.shields.io/badge/GitHub-181717?style=flat" alt="GitHub"></a>
 </p>
